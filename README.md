@@ -1,2 +1,2 @@
 # terraform-openstack
-Demo of terraform with OpenStack provider
+deploy with terraform a instance in Openstack
